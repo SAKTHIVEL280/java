@@ -8,7 +8,7 @@
     - while
     - do while
     - for loop
-6. getting started on OOps
+6. getting started on OOps def of objects and class
 
 
 [video link](https://youtu.be/4XTsAAHW_Tc?si=RuViWa4dv5b8TbN_)
