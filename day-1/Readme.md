@@ -1,5 +1,5 @@
 # what i learned today
----
+
 1. how java works
 2. primitive data types and their sizes
 3. type casting and type promoting
