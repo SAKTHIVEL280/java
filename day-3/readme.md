@@ -4,6 +4,6 @@
  - how they work
  - what are the mistakes we do
 
--method overloading
--instance variable
+- method overloading
+- instance variable
 
